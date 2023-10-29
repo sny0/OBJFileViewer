@@ -1,0 +1,54 @@
+﻿  Application.cpp
+  BasicWindow.cpp
+D:\GitHub\OBJFileViewer\BasicWindow.cpp(65,21): warning C4838: 'unsigned int' から 'LONG' への変換には縮小変換が必要です
+D:\GitHub\OBJFileViewer\BasicWindow.cpp(65,29): warning C4838: 'unsigned int' から 'LONG' への変換には縮小変換が必要です
+D:\GitHub\OBJFileViewer\BasicWindow.cpp(118,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+D:\GitHub\OBJFileViewer\BasicWindow.cpp(133,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+  DetailWindow.cpp
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(138,129): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(170,140): warning C4312: '型キャスト': 'const int' からより大きいサイズの 'HMENU' へ変換します。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(191,108): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(194,122): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(198,105): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(200,106): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(201,106): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(202,106): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(203,104): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(204,105): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(208,92): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(213,99): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(215,95): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(216,95): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(217,95): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\DetailWindow.cpp(248,31): warning C4244: '=': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+  MainWindow.cpp
+  ModelManager.cpp
+D:\GitHub\OBJFileViewer\ModelManager.cpp(65,72): warning C4267: '引数': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\ModelManager.cpp(253,29): warning C4267: '+=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\ModelManager.cpp(401,6): warning C4353: 非標準の拡張機能が使用: 関数式として定数 0 が使用されています。本来の '__noop' 関数を使用してください
+D:\GitHub\OBJFileViewer\ModelManager.cpp(436,6): warning C4353: 非標準の拡張機能が使用: 関数式として定数 0 が使用されています。本来の '__noop' 関数を使用してください
+D:\GitHub\OBJFileViewer\ModelManager.cpp(451,6): warning C4353: 非標準の拡張機能が使用: 関数式として定数 0 が使用されています。本来の '__noop' 関数を使用してください
+D:\GitHub\OBJFileViewer\ModelManager.cpp(487,72): warning C4244: '=': 'UINT64' から 'UINT' への変換です。データが失われる可能性があります。
+D:\GitHub\OBJFileViewer\ModelManager.cpp(513,7): warning C4353: 非標準の拡張機能が使用: 関数式として定数 0 が使用されています。本来の '__noop' 関数を使用してください
+D:\GitHub\OBJFileViewer\ModelManager.cpp(530,65): warning C4244: '=': 'UINT64' から 'UINT' への変換です。データが失われる可能性があります。
+D:\GitHub\OBJFileViewer\ModelManager.cpp(774,35): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\ModelManager.cpp(779,32): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\ModelManager.cpp(799,32): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  ModelWindow.cpp
+D:\GitHub\OBJFileViewer\ModelWindow.cpp(27,24): warning C4101: 'hitemRoot': ローカル変数は 1 度も使われていません。
+D:\GitHub\OBJFileViewer\ModelWindow.cpp(28,24): warning C4101: 'ic': ローカル変数は 1 度も使われていません。
+D:\GitHub\OBJFileViewer\ModelWindow.cpp(27,35): warning C4101: 'hitemParent': ローカル変数は 1 度も使われていません。
+  SourceWindow.cpp
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(11,49): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(79,153): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(110,121): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(113,105): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(114,105): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(121,121): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(128,125): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(172,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(178,19): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+D:\GitHub\OBJFileViewer\SourceWindow.cpp(193,31): warning C4244: '=': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+  コードを生成中...
+  OBJFileViewer.vcxproj -> D:\GitHub\OBJFileViewer\x64\Debug\OBJFileViewer.exe
