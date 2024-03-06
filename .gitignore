@@ -1,4 +1,6 @@
 /.vs
 /model/*
 !/model/white.png
+!/model/plane.obj
+!/model/cube.obj
 /x64/Debug/*.obj
